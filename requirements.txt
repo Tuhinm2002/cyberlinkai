@@ -3,3 +3,4 @@ opencv-python-headless
 sklearn
 streamlit
 tensorflow
+protobuf==3.9.2
