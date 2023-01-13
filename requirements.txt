@@ -1,6 +1,7 @@
 numpy
 opencv-python-headless
 sklearn
+scikit-learn
 streamlit
-tensorflow
+tensorflow-cpu
 protobuf==3.12
