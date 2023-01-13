@@ -1,7 +1,6 @@
 import numpy as np
 import streamlit as st
 import tensorflow as tf
-import sklearn
 import matplotlib.pyplot as plt
 import pandas as pd
 from PIL import  Image
