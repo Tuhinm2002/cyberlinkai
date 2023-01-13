@@ -1,13 +1,6 @@
-keras
-Keras-Preprocessing
-matplotlib
 numpy
 opencv-python-headless
 scikit-learn
 sklearn
 streamlit
-tensorboard
-tensorboard-data-server
-tensorboard-plugin-wit
 tensorflow-cpu
-tensorflow-estimator
