@@ -5,3 +5,4 @@ scikit-learn
 streamlit
 tensorflow-cpu
 protobuf==3.12
+matplotlib
